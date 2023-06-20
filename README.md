@@ -15,4 +15,4 @@
 ![uU](https://github-readme-stats.vercel.app/api?username=fireblue95&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
 ![uU](https://github-readme-stats.vercel.app/api?username=fireblue95&theme=vue-dark)
 
-![hh](https://github-readme-stats.vercel.app/api?username=fireblue95&theme=vue-dark&show_icons=true&hide_border=true)
+![hh](https://github-readme-stats.vercel.app/api?username=fireblue95&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true)
