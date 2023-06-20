@@ -13,3 +13,4 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fireblue95&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> 
 
 ![uU](https://github-readme-stats.vercel.app/api?username=fireblue95&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
+![uU](https://github-readme-stats.vercel.app/api?username=fireblue95&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true)
