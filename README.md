@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # README
 
-![Yi-Chen Kao's github stats](https://github-readme-stats.vercel.app/api?username=fireblue95&theme=vue-dark&show_icons=true)
+![Yi-Chen Kao's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fireblue95&theme=vue-dark&show_icons=true)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fireblue95&langs_count=10&layout=compact)] -->
 
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fireblue95&layout=donut-vertical&langs_count=10)] -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fireblue95&layout=pie&langs_count=10)]
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fireblue95&layout=pie&langs_count=10)]
